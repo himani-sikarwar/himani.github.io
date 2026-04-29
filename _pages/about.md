@@ -9,6 +9,22 @@ redirect_from:
 
 I am an Assistant Professor at the School of Engineering, Shiv Nadar Institute of Eminence, Delhi NCR, India. I completed my Ph.D. from the Indian Institute of Technology (IIT) Jodhpur under the supervision of Dr. Debasis Das.
 
+## Research Area
+
+<div style="display: flex; align-items: center; gap: 30px;">
+
+<img src="/images/research.png" width="300">
+
+<div>
+
+My research focuses on developing advanced security solutions for large-scale and highly dynamic cyber-physical systems, particularly the Internet of Vehicles (IoV). I work at the intersection of hardware security and intelligent systems, with emphasis on Physical Unclonable Functions (PUFs), AI-driven cyber attack detection, and post-quantum secure architectures.
+
+My research contributions have been published in reputed venues, including IEEE Transactions and top-tier conferences such as IEEE TNSM, IEEE TDSC, IEEE TITS, and IEEE TVT. I have also collaborated internationally with researchers from the University of Padua, Italy (Prof. Mauro Conti) and National Sun Yat-sen University, Taiwan (Prof. Chun-I Fan).
+
+</div>
+
+</div>
+
 Research Area
 ------
 My research focuses on developing advanced security solutions for large-scale and highly dynamic cyber-physical systems, particularly the Internet of Vehicles (IoV). I work at the intersection of hardware security and intelligent systems, with emphasis on Physical Unclonable Functions (PUFs), AI-driven cyber attack detection, and post-quantum secure architectures. My research contributions have been published in reputed venues, including IEEE Transactions and top-tier conferences such as IEEE TNSM, IEEE TDSC, IEEE TITS, and IEEE TVT. I have also collaborated internationally with researchers from the University of Padua, Italy (Prof. Mauro Conti) and National Sun Yat-sen University, Taiwan (Prof. Chun-I Fan).
