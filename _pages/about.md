@@ -17,6 +17,18 @@ Current Project
 ------
 I am currently leading a research project titled “SURAKSHA: A PUF-Enabled Secure Architecture for Accident Prevention and Drone-Assisted Emergency Response,” funded under the Prime Minister Early Career Research Grant (PM-ECRG) by the Anusandhan National Research Foundation (ANRF), Government of India. This project focuses on building resilient, real-time security frameworks for vehicular and emergency response systems. I welcome motivated students for research collaborations in cybersecurity, AI for security, and next-generation cryptographic systems.
 
+Latest News
+------
+- 🎯 Awarded the **Prime Minister Early Career Research Grant (PM-ECRG)** by ANRF, Government of India, for the project *“SURAKSHA: A PUF-Enabled Secure Architecture for Accident Prevention and Drone-Assisted Emergency Response.”*
+
+- 📄 Our research paper has been accepted for publication in *Cluster Computing*.
+
+- 📄 Our paper *“DyBatch: Message Prioritization and Priority-driven Dynamic Batch Verification in Large-scale IoV Networks”* has been published in *IEEE Transactions on Vehicular Technology (TVT), 2025*.
+
+- 📄 Our paper *“Secure IoT Communications with Optimized AES and Dynamic Threat Modeling on Embedded System”* has been published in *IEEE Transactions on Consumer Electronics (TCE), 2025*.
+
+- 📄 Our paper *“MRMH: Multi-Constraint Routing Optimization Using Hybrid Metaheuristics in Vehicular Ad-Hoc Networks”* has been published in *IEEE Transactions on Network Science and Engineering (TNSE), 2025*.
+
 For more info
 ------
 For more details on my research and publications, please explore the sections above.  
