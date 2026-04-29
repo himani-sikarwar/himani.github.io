@@ -11,19 +11,20 @@ I am an Assistant Professor at the School of Engineering, Shiv Nadar Institute o
 
 ## Research Area
 
-<div style="display: flex; align-items: center; gap: 30px;">
+<table>
+<tr>
+<td width="35%">
+<img src="/images/research.png" style="width:100%; border-radius:10px;">
+</td>
 
-<img src="/images/research.png" width="320" style="border-radius: 10px;">
+<td width="65%" style="vertical-align: top; padding-left: 20px;">
 
-<div style="width: 300">
+My research focuses on developing advanced security solutions for large-scale and highly dynamic cyber-physical systems, particularly the Internet of Vehicles (IoV). I work at the intersection of hardware security and intelligent systems, with emphasis on Physical Unclonable Functions (PUFs), AI-driven cyber attack detection, and post-quantum secure architectures. My research contributions have been published in reputed venues, including IEEE Transactions and top-tier conferences such as IEEE TNSM, IEEE TDSC, IEEE TITS, and IEEE TVT. I have also collaborated internationally with researchers from the University of Padua, Italy (Prof. Mauro Conti) and National Sun Yat-sen University, Taiwan (Prof. Chun-I Fan).
 
-My research focuses on developing advanced security solutions for large-scale and highly dynamic cyber-physical systems, particularly the Internet of Vehicles (IoV). I work at the intersection of hardware security and intelligent systems, with emphasis on Physical Unclonable Functions (PUFs), AI-driven cyber attack detection, and post-quantum secure architectures.
+</td>
+</tr>
+</table>
 
-My research contributions have been published in reputed venues, including IEEE Transactions and top-tier conferences such as IEEE TNSM, IEEE TDSC, IEEE TITS, and IEEE TVT. I have also collaborated internationally with researchers from the University of Padua, Italy (Prof. Mauro Conti) and National Sun Yat-sen University, Taiwan (Prof. Chun-I Fan).
-
-</div>
-
-</div>
 
 Research Area
 ------
