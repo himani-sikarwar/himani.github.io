@@ -13,7 +13,7 @@ I am an Assistant Professor at the School of Engineering, Shiv Nadar Institute o
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
-<img src="/images/research.png" width="300">
+<img src="/images/research.png" width="250">
 
 <div>
 
