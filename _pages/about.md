@@ -13,9 +13,9 @@ I am an Assistant Professor at the School of Engineering, Shiv Nadar Institute o
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
-<img src="/images/research.png" width="250">
+<img src="/images/research.png" width="320" style="border-radius: 10px;">
 
-<div>
+<div style="width: 300">
 
 My research focuses on developing advanced security solutions for large-scale and highly dynamic cyber-physical systems, particularly the Internet of Vehicles (IoV). I work at the intersection of hardware security and intelligent systems, with emphasis on Physical Unclonable Functions (PUFs), AI-driven cyber attack detection, and post-quantum secure architectures.
 
