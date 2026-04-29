@@ -14,7 +14,7 @@ I am an Assistant Professor at the School of Engineering, Shiv Nadar Institute o
 <table>
 <tr>
 <td width="35%">
-<img src="research.png" style="width:100%; border-radius:10px;">
+<img src="/images/research.png" style="width:100%; border-radius:10px;">
 </td>
 
 <td width="65%" style="vertical-align: top; padding-left: 20px;">
