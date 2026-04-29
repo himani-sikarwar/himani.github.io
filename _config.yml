@@ -22,9 +22,9 @@ author:
   avatar           : "photo.jpg"
   name             : "Himani Sikarwar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PM-ECRG Grant | Security and Privacy in IoV/ IoT | PUF | AI for Security "
   location         : "Delhi NCR"
-  employer         : "Shiv Nadar Institute of Eminence"
+  employer         : "Shiv Nadar IoE"
   uri              : "https://snu.edu.in/faculty/himani-sikarwar/"
   email            : "himani.sikarwar@snu.edu.in" 
 
@@ -48,7 +48,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
