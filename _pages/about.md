@@ -35,11 +35,14 @@ My research contributions have been published in reputed venues, including IEEE 
   overflow: hidden;
   position: relative;
   height: 120px;
+  .news-box:hover .news-list {
+  animation-play-state: paused;
+}
 }
 
 .news-list {
   position: absolute;
-  animation: scrollNews 18s linear infinite;
+  animation: scrollNews 25s linear infinite;
 }
 
 .news-item {
