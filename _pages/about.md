@@ -26,45 +26,6 @@ My research contributions have been published in reputed venues, including IEEE 
 </td>
 </tr>
 </table>
-
-<style>
-.news-box {
-  background: #f9fafc;
-  border-left: 4px solid #007acc;
-  padding: 15px;
-  overflow: hidden;
-  position: relative;
-  height: 120px;
-}
-  .news-box.hover .news-list {
-  animation-play-state: paused;
-}
-
-.news-list {
-  position: absolute;
-  animation: scrollNews 25s linear infinite;
-}
-
-.news-item {
-  margin-bottom: 15px;
-  font-size: 14px;
-}
-
-.new-tag {
-  background: #ff4d4f;
-  color: white;
-  font-size: 10px;
-  padding: 2px 6px;
-  border-radius: 4px;
-  margin-left: 8px;
-}
-
-@keyframes scrollNews {
-  0% { top: 100%; }
-  100% { top: -100%; }
-}
-</style>
-
 <h2>Latest News</h2>
 
 <div class="news-box">
