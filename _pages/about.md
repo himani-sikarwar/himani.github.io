@@ -29,16 +29,69 @@ My research contributions have been published in reputed venues, including IEEE 
 
 Latest News
 ------
-- 🎯 Awarded the **Prime Minister Early Career Research Grant (PM-ECRG)** by ANRF, Government of India, for the project *“SURAKSHA: A PUF-Enabled Secure Architecture for Accident Prevention and Drone-Assisted Emergency Response.”*
+<style>
+.news-box {
+  background: #f9fafc;
+  border-left: 4px solid #007acc;
+  padding: 15px;
+  overflow: hidden;
+  position: relative;
+  height: 120px;
+}
 
-- 📄 Our research paper has been accepted for publication in *Cluster Computing*.
+.news-list {
+  position: absolute;
+  animation: scrollNews 18s linear infinite;
+}
 
-- 📄 Our paper *“DyBatch: Message Prioritization and Priority-driven Dynamic Batch Verification in Large-scale IoV Networks”* has been published in *IEEE Transactions on Vehicular Technology (TVT), 2025*.
+.news-item {
+  margin-bottom: 15px;
+  font-size: 14px;
+}
 
-- 📄 Our paper *“Secure IoT Communications with Optimized AES and Dynamic Threat Modeling on Embedded System”* has been published in *IEEE Transactions on Consumer Electronics (TCE), 2025*.
+.new-tag {
+  background: #ff4d4f;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 8px;
+}
 
-- 📄 Our paper *“MRMH: Multi-Constraint Routing Optimization Using Hybrid Metaheuristics in Vehicular Ad-Hoc Networks”* has been published in *IEEE Transactions on Network Science and Engineering (TNSE), 2025*.
+@keyframes scrollNews {
+  0% { top: 100%; }
+  100% { top: -100%; }
+}
+</style>
 
+<h2>Latest News</h2>
+
+<div class="news-box">
+  <div class="news-list">
+
+    <div class="news-item">
+      🎯 Awarded the <b>Prime Minister Early Career Research Grant (PM-ECRG)</b> by ANRF, Government of India
+      <span class="new-tag">NEW</span>
+    </div>
+
+    <div class="news-item">
+      📄 Paper accepted in <i>Cluster Computing</i>.
+    </div>
+
+    <div class="news-item">
+      📄 “DyBatch: Message Prioritization and Priority-driven Dynamic Batch Verification...” published in <i>IEEE TVT, 2025</i>.
+    </div>
+
+    <div class="news-item">
+      📄 “Secure IoT Communications with Optimized AES...” published in <i>IEEE TCE, 2025</i>.
+    </div>
+
+    <div class="news-item">
+      📄 “MRMH: Multi-Constraint Routing Optimization...” published in <i>IEEE TNSE, 2025</i>.
+    </div>
+
+  </div>
+</div>
 Current Project
 ------
 I am currently leading a research project titled “SURAKSHA: A PUF-Enabled Secure Architecture for Accident Prevention and Drone-Assisted Emergency Response,” funded under the Prime Minister Early Career Research Grant (PM-ECRG) by the Anusandhan National Research Foundation (ANRF), Government of India. This project focuses on building resilient, real-time security frameworks for vehicular and emergency response systems. I welcome motivated students for research collaborations in cybersecurity, AI for security, and next-generation cryptographic systems.
