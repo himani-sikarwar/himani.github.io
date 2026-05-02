@@ -27,10 +27,6 @@ My research contributions have been published in reputed venues, including IEEE 
 </tr>
 </table>
 
-My research focuses on developing advanced security solutions for large-scale and highly dynamic cyber-physical systems, particularly the Internet of Vehicles (IoV). I work at the intersection of hardware security and intelligent systems, with emphasis on Physical Unclonable Functions (PUFs), AI-driven cyber attack detection, and post-quantum secure architectures.
-
-My research contributions have been published in reputed venues, including IEEE Transactions and top-tier conferences such as IEEE TNSM, IEEE TDSC, IEEE TITS, and IEEE TVT. I have also collaborated internationally with researchers from the University of Padua, Italy (Prof. Mauro Conti) and National Sun Yat-sen University, Taiwan (Prof. Chun-I Fan).
-
 Latest News
 ------
 - 🎯 Awarded the **Prime Minister Early Career Research Grant (PM-ECRG)** by ANRF, Government of India, for the project *“SURAKSHA: A PUF-Enabled Secure Architecture for Accident Prevention and Drone-Assisted Emergency Response.”*
