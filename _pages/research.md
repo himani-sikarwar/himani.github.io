@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<img src="{{ 'images/research1.png' | relative_url }}" 
+       style="width: 60%; border-radius:10px;">
 
 <h2>Research Areas</h2>
 
